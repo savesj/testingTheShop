@@ -1,0 +1,12 @@
+#home{
+  background: rgb(237, 241, 248);
+  background: linear-gradient(135deg, rgb(237, 241, 248)20%,rgb(66, 100, 164)100%);
+  min-height: 500px;
+  padding-left: 50px ;
+}
+
+#about{
+  background-color: #f3f2f2;
+}
+
+
